@@ -1,0 +1,20 @@
+.inp {
+  padding: 40px;
+}
+
+.inp > input {
+  height: 30px;
+  width: 70%;
+  outline: none;
+  padding: 8px;
+  border-radius: 10px;
+}
+
+.inp > button {
+  height: 50px;
+  padding: 8px;
+  color: green;
+  background-color: transparent;
+  border-radius: 10px;
+  border: 1px solid;
+}

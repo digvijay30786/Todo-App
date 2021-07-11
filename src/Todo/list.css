@@ -1,0 +1,8 @@
+div > h3:nth-child(odd) {
+  background-color: gainsboro;
+  padding: 20px;
+}
+
+div > .deco {
+  text-decoration: line-through;
+}
